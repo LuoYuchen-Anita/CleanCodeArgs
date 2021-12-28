@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e33b102-19b9-4905-b2aa-0cb7af354fb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Anita\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22nhCJM3psNSiE52JZDfTWqNo2j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/objectmentor/utilities/args" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anita\IdeaProjects\args\src\main\java\com\objectmentor\utilities\args" />
+      <recent name="C:\Users\Anita\IdeaProjects\args\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="args" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e33b102-19b9-4905-b2aa-0cb7af354fb7" name="Default Changelist" comment="" />
+      <created>1640479132867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640479132867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1640647943856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1640647943856" />
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1640647966440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1640647966440" />
+    <state width="1478" height="267" key="GridCell.Tab.0.bottom" timestamp="1640648550316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640648550316" />
+    <state width="1478" height="267" key="GridCell.Tab.0.center" timestamp="1640648550316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="267" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640648550316" />
+    <state width="1478" height="267" key="GridCell.Tab.0.left" timestamp="1640648550316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="267" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640648550316" />
+    <state width="1478" height="267" key="GridCell.Tab.0.right" timestamp="1640648550316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="267" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640648550316" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1640648753108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640648753108" />
+    <state x="565" y="193" key="chooseDestDirectoryDialog" timestamp="1640480401246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="193" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1640480401246" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1640648570469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1640648570469" />
+    <state x="306" y="5" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1640645469864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="306" y="5" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1640645469864" />
+    <state x="457" y="44" width="755" height="735" key="find.popup" timestamp="1640645912674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="44" width="755" height="735" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1640645912674" />
+  </component>
+</project>
